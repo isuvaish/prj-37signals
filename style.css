@@ -180,7 +180,10 @@
 	  margin-left: -125px;
 	  margin-top: 50px;
   }
-  
+  body div.customers a img{
+ 	  float:right;
+  }
+
   body div.customers div.meet p{
 	  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 	  font-size: 10px;
@@ -280,6 +283,9 @@
 	  top:580px;
 	  left:450px;	
   }
+  body div.rework a img {
+	float: left;
+ }
   body div.rework div.find img.arrow{
 	  position:relative;
 	  top:-50px;
